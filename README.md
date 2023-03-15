@@ -10,3 +10,9 @@ TDD
 ### Run coverage
 
     coverage run manage.py test
+    
+ 
+### show coverage report
+
+
+     coverage report
